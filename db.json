@@ -1,0 +1,122 @@
+{
+  "user": [
+    {
+      "name": "Kaung Khant Soe",
+      "email": "kaungkhants892@gmail.com",
+      "password": "kks",
+      "id": 1
+    },
+    {
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "password": "hello",
+      "id": 2
+    },
+    {
+      "name": "Kaung Kaung",
+      "email": "kaungkaung@gmail.com",
+      "password": "kks",
+      "id": 7
+    }
+  ],
+  "favorites": [
+    {
+      "userId": 1,
+      "mealId": "52772",
+      "MealName": "Teriyaki Chicken Casserole",
+      "mealCategory": "Chicken",
+      "mealArea": "Japanese",
+      "img": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "mealId": "52795",
+      "MealName": "Chicken Handi",
+      "mealCategory": "Chicken",
+      "mealArea": "Indian",
+      "img": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "mealId": "52870",
+      "MealName": "Chickpea Fajitas",
+      "mealCategory": "Vegetarian",
+      "mealArea": "Mexican",
+      "img": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "mealId": "52893",
+      "MealName": "Apple & Blackberry Crumble",
+      "mealCategory": "Dessert",
+      "mealArea": "British",
+      "img": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
+      "id": 4
+    }
+  ],
+  "carts": [
+    {
+      "mealImg": "https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg",
+      "mealName": "Kentucky Fried Chicken",
+      "mealCategory": "Chicken",
+      "mealArea": "American",
+      "mealId": "52813",
+      "userId": 1,
+      "quantity": 3,
+      "price": 12000,
+      "status": "pending",
+      "id": 1
+    },
+    {
+      "mealImg": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+      "mealName": "Chicken Enchilada Casserole",
+      "mealCategory": "Chicken",
+      "mealArea": "Mexican",
+      "mealId": "52765",
+      "userId": 1,
+      "quantity": 2,
+      "price": 8000,
+      "status": "pending",
+      "id": 2
+    },
+    {
+      "mealImg": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+      "mealName": "Chicken Enchilada Casserole",
+      "mealCategory": "Chicken",
+      "mealArea": "Mexican",
+      "mealId": "52765",
+      "userId": 1,
+      "quantity": 1,
+      "price": 4000,
+      "status": "pending",
+      "id": 3
+    },
+    {
+      "mealImg": "https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg",
+      "mealName": "Blackberry Fool",
+      "mealCategory": "Dessert",
+      "mealArea": "British",
+      "mealId": "52891",
+      "userId": 2,
+      "quantity": 3,
+      "price": 12000,
+      "status": "pending",
+      "id": 4
+    },
+    {
+      "mealImg": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
+      "mealName": "Apple & Blackberry Crumble",
+      "mealCategory": "Dessert",
+      "mealArea": "British",
+      "mealId": "52893",
+      "userId": 2,
+      "quantity": 1,
+      "price": 4000,
+      "status": "pending",
+      "id": 5
+    }
+  ]
+}
